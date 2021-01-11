@@ -4,8 +4,8 @@ The entire problem statement revolves around a single function called matplot. T
 
 ## OUTPUT
 <a>
- ## myplot(FreeThrowAttempts)
-  <img src="https://github.com/yashs0215/Basketball-Free-Throws/blob/main/BBFreeThrows1.png?raw=true">
+ < ## myplot(FreeThrowAttempts)
+  img src="https://github.com/yashs0215/Basketball-Free-Throws/blob/main/BBFreeThrows1.png?raw=true">
  ## myplot(FreeThrows/FreeThrowAttempts)
   <img src="https://github.com/yashs0215/Basketball-Free-Throws/blob/main/BBFreeThrow2.png?raw=true">
  ## myplot(Points - FreeThrowAttempts/FieldGoalAttempts)
